@@ -1,0 +1,36 @@
+\contentsline {section}{摘要}{i}{Doc-Start}%
+\contentsline {section}{Abstract}{i}{Doc-Start}%
+\contentsline {section}{\numberline {1}绪论/Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}微波的特性}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}微波技术的研究方法}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}微波技术的应用}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}传输线理论}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}微波的传播特性}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}传输线及其方程的解}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}传输线的特性参量}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}传播参数}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}特性阻抗}{4}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}相位关系与波速}{5}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}波长与频率的关系}{5}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}阻抗圆图及应用}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}波导理论}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}交变电磁场基本关系式}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}边界条件}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}理想波导系统的一般理论}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}导波系统的传输特性}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}矩形波导中电磁波型的传输特性}{8}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}圆波导中的三种主要模式}{9}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}TE 11模 (λc= 3.41R)}{9}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2} $TE_{01}$模 (λc=1.64R)}{9}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3} $TM_{01}$模 (λc=1.64R)}{10}{subsubsection.3.6.3}%
+\contentsline {section}{\numberline {4}微波网络理论}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}二端口微波网络的网络参量}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}二端口微波网络参量的性质}{13}{subsection.4.2}%
+\contentsline {section}{\numberline {5}微波元件-结构与功能}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}微波元件变换性质分类}{14}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}线性互易元件}{14}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}线性非互易元件}{14}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}非线性元件}{14}{subsubsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.2}微波器件分类总结}{14}{subsection.5.2}%
+\contentsline {section}{\numberline {6}总结与展望/ConclusIon And RecommendAtIons}{15}{section.6}%
+\contentsline {section}{参考文献}{16}{table.2}%
